@@ -1,7 +1,7 @@
 # Kunst aus aller Welt
 
-Das Kunst-Manifest für einen privaten TV-Launcher. Der Fernseher lädt
-`manifest.json` jede Nacht und holt sich die Bilder selbst bei den Museen.
+Das Kunst-Manifest für einen privaten TV-Launcher. 
+Der Fernseher lädt `manifest.json` jede Nacht und holt sich die Bilder selbst bei den Museen.
 
 **Inhalt:** nur Metadaten (Titel, Künstler, Datierung, Technik, Standort, Lizenz, Bildadresse) von Werken, die das
 jeweilige Museum als gemeinfrei, CC0 oder CC BY / CC BY-SA kennzeichnet. Keine Bilder in diesem Repo.
